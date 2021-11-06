@@ -5,3 +5,4 @@
 - [x] Primera prueba unitaria pasada con exito
 
 - [x] Implementada en clase ExpresionesRegulares la funcionalidad concatenacion
+- [x] Segunda prueba unitaria pasada con exito(metodo concat)
