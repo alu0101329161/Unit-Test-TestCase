@@ -9,6 +9,11 @@ class RegularExpression
 	  @expresion = expresion
 
 	end
+	def concat(aux)
+	
+	  return RegularExpression.new(@expresion + "." + aux.expresion)
+
+	end
 	def to_s
 	
 	  return "#{expresion}"
