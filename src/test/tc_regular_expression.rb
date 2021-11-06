@@ -13,4 +13,9 @@ class TestRegularExpression < Test::Unit::TestCase
      # Comprobar getter expresion 
      assert_equal("a", @origen.expresion)
   end
+
+  def test_simple_concatenacion
+	#Comprobar concatenacion
+	assert_equal("a.b", @origen.concat(@origen1).to_s)
+  end
 end
