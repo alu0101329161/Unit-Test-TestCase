@@ -1,6 +1,6 @@
 
 
-class RegularExpressions
+class RegularExpression
 
 	attr_reader :expresion
 
