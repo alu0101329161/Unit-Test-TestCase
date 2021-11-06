@@ -9,3 +9,5 @@
 
 - [x] Implementada eb clase ExpresionesRegulares la funcionalidad alternativa
 - [x] Tercera prueba unitaria pasada con exito(metodo alt)
+
+- [x] Implementada eb clase ExpresionesRegulares la funcionalidad cierre de Kleen
