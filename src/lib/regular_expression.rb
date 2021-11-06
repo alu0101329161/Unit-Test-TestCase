@@ -19,6 +19,11 @@ class RegularExpression
 	  return RegularExpression.new(@expresion + "|" + aux.expresion)
 
 	end
+	def kleen
+
+          return RegularExpression.new(@expresion + "*")
+
+        end
 	def to_s
 	
 	  return "#{expresion}"
