@@ -18,4 +18,10 @@ class TestRegularExpression < Test::Unit::TestCase
 	#Comprobar concatenacion
 	assert_equal("a.b", @origen.concat(@origen1).to_s)
   end
+
+   def test_simple_altenativa
+        #Comprobar alternativa
+        assert_equal("a|b", @origen.alt(@origen1).to_s)
+  end
+
 end
