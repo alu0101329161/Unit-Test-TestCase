@@ -8,3 +8,4 @@
 - [x] Segunda prueba unitaria pasada con exito(metodo concat)
 
 - [x] Implementada eb clase ExpresionesRegulares la funcionalidad alternativa
+- [x] Tercera prueba unitaria pasada con exito(metodo alt)
