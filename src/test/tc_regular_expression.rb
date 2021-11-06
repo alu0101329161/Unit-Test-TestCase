@@ -24,4 +24,10 @@ class TestRegularExpression < Test::Unit::TestCase
         assert_equal("a|b", @origen.alt(@origen1).to_s)
   end
 
+  def test_simple_kleen
+        #Comprobar cierre de Kleen
+        assert_equal("a*", (@origen.kleen).to_s)
+  end
+
+
 end
