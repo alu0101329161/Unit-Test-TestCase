@@ -2,3 +2,4 @@
 
 
 - [x] Implementacion de clase ExpresionesRegulares con initialize, getter , setter y to_s para poder imprimir.
+- [x] Primera prueba unitaria pasada con exito
