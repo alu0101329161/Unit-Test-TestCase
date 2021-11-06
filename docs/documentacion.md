@@ -6,3 +6,5 @@
 
 - [x] Implementada en clase ExpresionesRegulares la funcionalidad concatenacion
 - [x] Segunda prueba unitaria pasada con exito(metodo concat)
+
+- [x] Implementada eb clase ExpresionesRegulares la funcionalidad alternativa
